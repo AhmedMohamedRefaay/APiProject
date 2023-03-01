@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/HbCQoNtZb4/eXxgBIImsLBeOzD5LxOlHowORvPgoMzrkofIaI/n5m7qy7ZwpxYbyEHN76dzhpg+c+vq7xNsgA==",
+  "dgSpecHash": "suK4aYsPIvJwbEyYfcweV+Lpb0fdFHCbmSdBUZu59lmrvhZPZ2Gwixr2j0cXbBealBRKP+GQEWJrBUxWhpYiGg==",
   "success": true,
-  "projectFilePath": "F:\\AdvancedC#\\VisualCsharp\\Domain\\API.csproj",
+  "projectFilePath": "F:\\API\\Api\\APIs\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

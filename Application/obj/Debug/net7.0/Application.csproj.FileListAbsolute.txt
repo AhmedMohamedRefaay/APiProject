@@ -1,0 +1,17 @@
+F:\API\Api\APIs\Application\bin\Debug\net7.0\Application.deps.json
+F:\API\Api\APIs\Application\bin\Debug\net7.0\Application.dll
+F:\API\Api\APIs\Application\bin\Debug\net7.0\Application.pdb
+F:\API\Api\APIs\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+F:\API\Api\APIs\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\API\Api\APIs\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+F:\API\Api\APIs\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+F:\API\Api\APIs\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+F:\API\Api\APIs\Application\obj\Debug\net7.0\Application.dll
+F:\API\Api\APIs\Application\obj\Debug\net7.0\refint\Application.dll
+F:\API\Api\APIs\Application\obj\Debug\net7.0\Application.pdb
+F:\API\Api\APIs\Application\obj\Debug\net7.0\ref\Application.dll
+F:\API\Api\APIs\Application\bin\Debug\net7.0\Domain.dll
+F:\API\Api\APIs\Application\bin\Debug\net7.0\ModelDto.dll
+F:\API\Api\APIs\Application\bin\Debug\net7.0\ModelDto.pdb
+F:\API\Api\APIs\Application\bin\Debug\net7.0\Domain.pdb
+F:\API\Api\APIs\Application\obj\Debug\net7.0\Application.csproj.CopyComplete

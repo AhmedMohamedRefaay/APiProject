@@ -1,0 +1,15 @@
+F:\API\Api\APIs\ModelDto\bin\Debug\net7.0\ModelDto.deps.json
+F:\API\Api\APIs\ModelDto\bin\Debug\net7.0\ModelDto.dll
+F:\API\Api\APIs\ModelDto\bin\Debug\net7.0\ModelDto.pdb
+F:\API\Api\APIs\ModelDto\bin\Debug\net7.0\Domain.dll
+F:\API\Api\APIs\ModelDto\bin\Debug\net7.0\Domain.pdb
+F:\API\Api\APIs\ModelDto\obj\Debug\net7.0\ModelDto.csproj.AssemblyReference.cache
+F:\API\Api\APIs\ModelDto\obj\Debug\net7.0\ModelDto.GeneratedMSBuildEditorConfig.editorconfig
+F:\API\Api\APIs\ModelDto\obj\Debug\net7.0\ModelDto.AssemblyInfoInputs.cache
+F:\API\Api\APIs\ModelDto\obj\Debug\net7.0\ModelDto.AssemblyInfo.cs
+F:\API\Api\APIs\ModelDto\obj\Debug\net7.0\ModelDto.csproj.CoreCompileInputs.cache
+F:\API\Api\APIs\ModelDto\obj\Debug\net7.0\ModelDto.csproj.CopyComplete
+F:\API\Api\APIs\ModelDto\obj\Debug\net7.0\ModelDto.dll
+F:\API\Api\APIs\ModelDto\obj\Debug\net7.0\refint\ModelDto.dll
+F:\API\Api\APIs\ModelDto\obj\Debug\net7.0\ModelDto.pdb
+F:\API\Api\APIs\ModelDto\obj\Debug\net7.0\ref\ModelDto.dll

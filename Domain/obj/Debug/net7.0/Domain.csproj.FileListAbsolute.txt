@@ -1,0 +1,12 @@
+F:\API\Api\APIs\Domain\bin\Debug\net7.0\Domain.deps.json
+F:\API\Api\APIs\Domain\bin\Debug\net7.0\Domain.dll
+F:\API\Api\APIs\Domain\bin\Debug\net7.0\Domain.pdb
+F:\API\Api\APIs\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+F:\API\Api\APIs\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\API\Api\APIs\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+F:\API\Api\APIs\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+F:\API\Api\APIs\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+F:\API\Api\APIs\Domain\obj\Debug\net7.0\Domain.dll
+F:\API\Api\APIs\Domain\obj\Debug\net7.0\refint\Domain.dll
+F:\API\Api\APIs\Domain\obj\Debug\net7.0\Domain.pdb
+F:\API\Api\APIs\Domain\obj\Debug\net7.0\ref\Domain.dll
